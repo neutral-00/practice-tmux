@@ -1,4 +1,4 @@
 # Kill or Close a Window
 
-<Prefix>&
+Ctrl-b &
 
